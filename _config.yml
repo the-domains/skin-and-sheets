@@ -6,9 +6,9 @@ color:
   saturation: 0.5578048839233816
   rhythmicContrast: 0.3278859213460237
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
 name: skin and sheets
