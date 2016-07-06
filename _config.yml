@@ -1,0 +1,14 @@
+layout_spectrum: 0.589979998767376
+typography_spectrum: 0.11506226263009012
+color:
+  brandStrength: 0.5367066687904298
+  lightness: 0.6855567507445812
+  saturation: 0.5578048839233816
+  rhythmicContrast: 0.3278859213460237
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: skin and sheets
